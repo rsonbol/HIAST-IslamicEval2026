@@ -1,0 +1,11 @@
+# IslamicEval 2026
+
+Official HIAST submission for:
+
+- Task 1: Citation Span Detection
+- Task 2: Fine-Grained Hallucination Identification
+- Task 3: Hallucination Correction
+
+## Models
+
+All models contain fewer than 13B parameters and comply with the shared task rules.
